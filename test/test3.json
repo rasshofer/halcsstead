@@ -1,0 +1,14 @@
+[{
+  "selector": ".grid-homepage .teaser .article-title .headline[data-tooltip*=\"demo\"]",
+  "metrics": {
+    "uniqueOperators": 5,
+    "uniqueOperands": 6,
+    "totalOperators": 49,
+    "totalOperands": 11,
+    "vocabulary": 11,
+    "length": 60,
+    "volume": 208,
+    "difficulty": 30,
+    "effort": 6240
+  }
+}]

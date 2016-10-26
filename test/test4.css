@@ -1,0 +1,4 @@
+a#content.active > div::first-line [data-content],
+a:not(:visited) {
+  display: block;
+}

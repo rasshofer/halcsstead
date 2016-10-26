@@ -1,0 +1,37 @@
+{
+  "name": "halcsstead",
+  "version": "0.0.1",
+  "description": "A small helper to calculcate the Halstead metrics of CSS selectors",
+  "author": {
+    "name": "Thomas Rasshofer",
+    "email": "hello@thomasrasshofer.com",
+    "url": "http://thomasrasshofer.com/"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rasshofer/halcsstead.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rasshofer/halcsstead/issues"
+  },
+  "main": "halcsstead.js",
+  "keywords": [
+    "halcsstead",
+    "css",
+    "halstead",
+    "metrics"
+  ],
+  "devDependencies": {
+    "jshint": "^2.9.4",
+    "tap": "^8.0.0"
+  },
+  "dependencies": {
+    "array-unique": "^0.3.2",
+    "css": "^2.2.1",
+    "css-selector-tree": "0.0.2"
+  },
+  "scripts": {
+    "test": "jshint halcsstead.js && tap test/tests.js --cov"
+  }
+}

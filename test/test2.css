@@ -1,0 +1,8 @@
+body {
+  background: red;
+}
+
+.grid-homepage .teaser .article-title .headline-intro,
+.grid-homepage .teaser .article-title .headline {
+  display: block;
+}

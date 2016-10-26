@@ -1,0 +1,40 @@
+[{
+  "selector": ".grid-homepage .teaser .article-title .headline",
+  "metrics": {
+    "uniqueOperators": 5,
+    "uniqueOperands": 5,
+    "totalOperators": 42,
+    "totalOperands": 9,
+    "vocabulary": 10,
+    "length": 51,
+    "volume": 170,
+    "difficulty": 25,
+    "effort": 4250
+  }
+}, {
+  "selector": ".grid-homepage .teaser .article-title .headline-intro",
+  "metrics": {
+    "uniqueOperators": 5,
+    "uniqueOperands": 5,
+    "totalOperators": 42,
+    "totalOperands": 9,
+    "vocabulary": 10,
+    "length": 51,
+    "volume": 170,
+    "difficulty": 25,
+    "effort": 4250
+  }
+}, {
+  "selector": "body",
+  "metrics": {
+    "uniqueOperators": 5,
+    "uniqueOperands": 0,
+    "totalOperators": 0,
+    "totalOperands": 0,
+    "vocabulary": 5,
+    "length": 0,
+    "volume": 0,
+    "difficulty": 0,
+    "effort": 0
+  }
+}]

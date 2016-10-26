@@ -1,0 +1,14 @@
+[{
+  "selector": "body",
+  "metrics": {
+    "uniqueOperators": 5,
+    "uniqueOperands": 0,
+    "totalOperators": 0,
+    "totalOperands": 0,
+    "vocabulary": 5,
+    "length": 0,
+    "volume": 0,
+    "difficulty": 0,
+    "effort": 0
+  }
+}]

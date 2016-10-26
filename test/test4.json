@@ -1,0 +1,27 @@
+[{
+  "selector": "a#content.active > div::first-line [data-content]",
+  "metrics": {
+    "uniqueOperators": 5,
+    "uniqueOperands": 11,
+    "totalOperators": 49,
+    "totalOperands": 12,
+    "vocabulary": 16,
+    "length": 61,
+    "volume": 244,
+    "difficulty": 55,
+    "effort": 13420
+  }
+}, {
+  "selector": "a:not(:visited)",
+  "metrics": {
+    "uniqueOperators": 5,
+    "uniqueOperands": 2,
+    "totalOperators": 7,
+    "totalOperands": 2,
+    "vocabulary": 7,
+    "length": 9,
+    "volume": 26,
+    "difficulty": 10,
+    "effort": 260
+  }
+}]
