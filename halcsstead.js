@@ -37,7 +37,7 @@ function calculcateSelectorMetrics (selector) {
 
   var vocabulary = (uniqueOperators + uniqueOperands);
   var length = (totalOperators + totalOperands);
-  var volume = Math.ceil(length * Math.log2(vocabulary));
+  var volume = Math.ceil(length * Math.log(vocabulary) / Math.LN2);
   var difficulty = (uniqueOperators * uniqueOperands);
   var effort = (difficulty * volume);
 
