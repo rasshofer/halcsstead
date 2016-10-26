@@ -47,6 +47,8 @@ In case no valid CSS selector is found within the provided CSS code, `false` is 
 
 ## Changelog
 
+* 0.0.2
+  * Use custom calculation of Math.log2 to prevent issues with older Node.js versions
 * 0.0.1
   * Initial version
 
